@@ -42,4 +42,4 @@ love you
 **`) 
 }).catch(console.error)
 })
-client.login('BOT_TOKEN');
+client.login('NDc4ODI4NjkzODIxNzE4NTUw.DlQ3mg.k8_hxgjgoPw6ODpNa_8EMzMD1sY');
