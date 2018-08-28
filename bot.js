@@ -15,7 +15,7 @@ this is chat server
 join to server you will be happy
 love you
 
-                               [ https://discord.gg/Cn5RSea ]
+                               [ https://discord.gg/BRnFcMF ]
 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -36,7 +36,7 @@ join to server you will be happy
 love you
 
 
-                               [ https://discord.gg/Cn5RSea ]
+                               [ https://discord.gg/BRnFcMF ]
   
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
