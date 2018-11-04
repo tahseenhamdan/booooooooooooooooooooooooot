@@ -11,7 +11,7 @@ console.log("Welcome Again !");
 تعال نخطفك شوي ي لبى 
 
 
-                               [ https://discord.gg/bCPyC3 ]
+                               [ https://discord.gg/t4U7Av5 ]
 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -25,7 +25,7 @@ client.on("guildMemberAdd", member => {
 **
 تعال نخطفك شوي ي لبى
 
-                               [ https://discord.gg/bCPyC3 ]
+                               [ https://discord.gg/t4U7Av5 ]
   
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
